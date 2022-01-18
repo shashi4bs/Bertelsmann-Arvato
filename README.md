@@ -1,11 +1,12 @@
 # Bertelsmann-Arvato
 Bertelsmann/Arvato Project - Data Scientist Nanodegree
+Here is the discussion on the Bertelsmann-Arvato data: https://medium.com/@shashi4bs/will-you-be-my-customer-feb56a0a148f
 
 ### Table of Contents
-1. Installation
-2. Project Motivation
-3. File Descriptions
-4. How To Run
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#description)
+4. [How To Run](#run)
 
 ## Installation<a name="installation"></a>
 To run code use python>=3.8, to install dependencies run pip install -r requirements.txt
